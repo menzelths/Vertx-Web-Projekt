@@ -18,6 +18,7 @@ public class JavaApplication10 {
         // TODO code application logic here
         for (int i=1;i<=10;i++){
             System.out.println(i);
+            System.out.println(i);
         }
     }
     
